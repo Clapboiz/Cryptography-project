@@ -248,4 +248,5 @@ int main(int argc, char *argv[])
 {
 	encryptionTime();
 	decryptionTime();
+	system ("pause");
 }
