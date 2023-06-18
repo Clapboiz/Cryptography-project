@@ -1,0 +1,10 @@
+{
+  "name": "login-system",
+  "author": "clap",
+  "version": "1.0.0",
+  "dependencies": {
+    "bcryptjs": "2.4.3",
+    "aws-sdk": "^2.1049.0",
+    "jsonwebtoken": "8.5.1"
+  }
+}
